@@ -1,4 +1,4 @@
-Autocomplete Text Box. Pulls from UIC ACCC Knowledgebase API to autocomplete whatever a user types in the search box. Suggestions appear as a dropdown menu.
+Autocomplete Text Box. Pulls from UIC ACCC Knowledgebase API to autocomplete whatever a user types in the search box. Suggestions appear as a dropdown menu, organized into categories.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
